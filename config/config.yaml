@@ -1,0 +1,11 @@
+#端口
+port: 80
+#数据库类型可以输入sqlite 或者mysql
+database: mysql
+
+#mysql配置(如果选sqlite可不用配置)
+user: root
+password: root
+ip: 192.168.1.4
+dbport: 3306
+dbname: poetry
